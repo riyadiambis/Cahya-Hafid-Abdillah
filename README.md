@@ -4,14 +4,14 @@ Website portofolio statis untuk **Cahya Hafid Abdillah** — Content & Copy Writ
 
 ## 🌐 Live Website
 Situs ini dapat diakses secara publik melalui GitHub Pages:
-👉 **[https://riyadiambis.github.io/portofolio-hafid/](https://riyadiambis.github.io/portofolio-hafid/)**
+👉 **[https://riyadiambis.github.io/Cahya-Hafid-Abdillah/](https://riyadiambis.github.io/Cahya-Hafid-Abdillah/)**
 
 ---
 
 ## 📁 Struktur Folder
 
 ```text
-portofolio-hafid/
+Cahya-Hafid-Abdillah/
 ├── .gitignore                      # Mengabaikan file backup lokal & cache
 ├── README.md                       # Dokumentasi repositori
 ├── docs/                           # Folder root website (GitHub Pages source)
