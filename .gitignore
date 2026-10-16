@@ -1,0 +1,11 @@
+# Original single-file backup and temporary files
+docs/_original.html
+docs/Portofolio*.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
